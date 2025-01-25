@@ -78,3 +78,7 @@ This executable version of the Torob Store Position Finder is provided to you fo
 For any issues or inquiries, feel free to contact:
 - **Email:** morteza_monfared@yahoo.com
 - **Developed by:** @Mortez4X
+
+## License
+
+This project is licensed under the Proprietary License - you may only use the software for personal or business purposes. Redistribution, modification, or resale is not allowed.
